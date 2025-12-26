@@ -147,3 +147,12 @@ If running via `systemd`, use the `-foreground` flag so systemd can manage the p
 ExecStart=/path/to/eth-watchtower-supervisor -foreground -config /path/to/config.json
 Restart=always
 ```
+
+### Tips and appreciations
+
+***ETH/ERC20:*** 0x9b4FfDADD87022C8B7266e28ad851496115ffB48
+
+***SOL:*** 68L4XzSbRUaNE4UnxEd8DweSWEoiMQi6uygzERZLbXDw
+
+***BTC:*** bc1qkmzc6d49fl0edyeynezwlrfqv486nmk6p5pmta
+
